@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 983a7a4f45899fb4aa7ecdab21e901de
+timeCreated: 1460507366
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - weabonEnemy: {fileID: 179202, guid: 0006a62cdbf7cac4f9f609665f402bc6, type: 2}
+  - gold: {fileID: 122656, guid: 724f25dc01253d7498fe7bff034f81da, type: 2}
+  - gunEnemy: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

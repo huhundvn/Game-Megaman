@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c81ffd6b225e4ab44b0e692e153d59cd
+timeCreated: 1461125168
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hp: {instanceID: 0}
+  - weabon: {fileID: 104762, guid: bf3402419c72bab44b73509997fe7940, type: 2}
+  - weabon2: {fileID: 144796, guid: 2ca5627a68b760d41bb439ceb0eea0dc, type: 2}
+  - tmp: {instanceID: 0}
+  - gun: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
